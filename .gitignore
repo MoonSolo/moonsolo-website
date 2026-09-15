@@ -42,3 +42,6 @@ next-env.d.ts
 
 # aseprite files must remain local.
 .aseprite
+
+# removing all the /ressource
+/src/ressources
