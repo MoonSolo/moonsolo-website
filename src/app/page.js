@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6">
       <div className="max-w-2xl w-full text-center">
-        <h1 className="text-5xl font-bold tracking-tight mb-3">moonsolo</h1>
+        <h1 className="text-5xl font-bold tracking-tight mb-3">Welcome to my website !</h1>
         <p className="text-gray-400 mb-12">a small collection of self-hosted tools</p>
 
         <div className="grid gap-4 sm:grid-cols-2">
